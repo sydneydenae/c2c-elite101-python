@@ -1,5 +1,5 @@
 # C2C Elite 101 Python Chatbot Starter
-## Sydney's Version
+## Sydney's Version 2
 
 # Introduction
 This is a repository created by *Sydney*
